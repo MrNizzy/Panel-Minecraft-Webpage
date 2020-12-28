@@ -1,0 +1,19 @@
+{
+  "name": "panel",
+  "version": "1.0.0",
+  "description": "Panel Minecraft webpage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrNizzy/Panel-Minecraft-Webpage.git"
+  },
+  "author": "MrNizzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrNizzy/Panel-Minecraft-Webpage/issues"
+  },
+  "homepage": "https://github.com/MrNizzy/Panel-Minecraft-Webpage#readme"
+}
